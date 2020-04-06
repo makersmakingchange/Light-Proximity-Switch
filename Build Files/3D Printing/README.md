@@ -1,0 +1,4 @@
+# 3D Print Files
+Light_Proximity_Switch_Base_v1.0.stl
+Light_Proximity_Switch_Bottom_Case_v1.0.stl
+Light_Proximity_Switch_Top_Case_v1.0.stl
