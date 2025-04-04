@@ -5,8 +5,6 @@ The Light Proximity Switch is an open-source assistive switch that is activated 
 ## More info at
 
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/light-proximity-switch/)
-- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/light-proximity-switch/925)
-
 
 
 ## About us
