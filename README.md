@@ -6,7 +6,7 @@ The Light Proximity Switch is an open-source assistive switch that is activated 
 
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/light-proximity-switch/)
 
-
+<!-- ABOUT MMC START -->
 ## About us
 
 ![Makers Making Change Logo](https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg)
@@ -20,6 +20,7 @@ We are committed to creating a network of volunteer makers who support people wi
  - [Thingiverse](https://www.thingiverse.com/makersmakingchange/about)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+<!-- ABOUT MMC END -->
 
 
 ## Contact Us
