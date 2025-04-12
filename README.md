@@ -26,8 +26,3 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
 <!-- ABOUT MMC END -->
-
-
-## Contact Us
-
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/light-proximity-switch/), [MMC Forum thread](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
