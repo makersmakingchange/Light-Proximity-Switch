@@ -63,7 +63,7 @@ The [Bill of Materials](/Documentation/Light_Proximity_Switch_BOM.csv) lists all
 
 ### 4. Print the 3D Printable components
 
-All of the individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 5. Assemble the Light Proximity Switch
 
