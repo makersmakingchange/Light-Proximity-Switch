@@ -1,0 +1,117 @@
+(footprint "PAD-1X01"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Plated Through Hole - No Silk Outline\n\nSpecifications:\n\n• Pin count:1\n• Pin pitch:0.1\"\n\nExample device(s):\n\n• CONN_01")
+	(property "Reference" "REF**"
+		(at -1.397 -1.524 0)
+		(layer "F.SilkS")
+		(uuid "d7e95780-abee-48f1-ad7c-fae88705b0ed")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "PAD-1X01"
+		(at -1.524 2.032 0)
+		(layer "F.Fab")
+		(uuid "95afbf5a-8cf5-4a17-b6bd-cecd4f0b0383")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f34fdd34-c085-4620-bca3-b5d6fc5b5fac")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0662c3e5-3469-433a-9df4-362de010e2a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.27 -1.27)
+		(end 1.27 -1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9509f983-e7a5-47c9-943d-f9687e4d2efb")
+	)
+	(fp_line
+		(start -1.27 1.27)
+		(end -1.27 -1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5b6f812e-faa2-48ce-a57b-b5698f7b80ff")
+	)
+	(fp_line
+		(start 1.27 -1.27)
+		(end 1.27 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1b1c3b98-ae1b-475c-9c84-574aab31584d")
+	)
+	(fp_line
+		(start 1.27 1.27)
+		(end -1.27 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "806fa1b9-98ef-45b6-8737-ec71c386f318")
+	)
+	(fp_poly
+		(pts
+			(xy -0.254 0.254) (xy 0.254 0.254) (xy 0.254 -0.254) (xy -0.254 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "00a34bb5-fba8-41dc-89f3-b2a2eef9ed4a")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0 90)
+		(size 2.54 2.54)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "25cf3071-7f21-40b2-b946-456505fbcb9c")
+	)
+	(embedded_fonts no)
+)

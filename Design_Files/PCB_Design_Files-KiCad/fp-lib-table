@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Light_Proximity_Switch_VB2.1-import-fps") (type "KiCad") (uri "${KIPRJMOD}/Light_Proximity_Switch_VB2.1-import-fps.pretty") (options "kicad_import_cache=1") (descr ""))
+)

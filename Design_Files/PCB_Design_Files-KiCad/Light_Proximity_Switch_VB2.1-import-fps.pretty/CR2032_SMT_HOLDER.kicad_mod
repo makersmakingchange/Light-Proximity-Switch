@@ -1,0 +1,345 @@
+(footprint "CR2032_SMT_HOLDER"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "From http://www.aliexpress.com/item/10pcs-bag-CR2032-coin-cell-battery-holder-base/32566282268.html  This Ali Express store   Many many many other people sell them.  Also compatible with Digikey BU2032SM-BT-GTR-ND")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "6b5416e2-7a4d-42ea-9fce-478237992ea8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "f2edfc7c-c175-40e2-ba22-24d5d8f01501")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68fa4dfa-e4be-4df6-ba10-91155c3c821f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c00e3c6f-fa80-4157-9242-c288007f2864")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -14 -2.25)
+		(end -14 -1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e2b2cfca-804c-4bc6-926f-a57f609ac362")
+	)
+	(fp_line
+		(start -14 -2.25)
+		(end -11 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4fc16eb5-a26a-4c6e-a55d-32205aedc3f5")
+	)
+	(fp_line
+		(start -14 -1.75)
+		(end -14 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27938fb8-4a60-4753-8ab0-7d44c6fd3816")
+	)
+	(fp_line
+		(start -14 1.75)
+		(end -14 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e8124cb-1fd2-4041-acf3-5e2a5c5425c3")
+	)
+	(fp_line
+		(start -14 2.25)
+		(end -14 1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "475b5fe4-b792-445f-bcb2-71c01fad1978")
+	)
+	(fp_line
+		(start -14 2.25)
+		(end -11 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20f67a07-4f77-4d9a-90b9-26ad4d115fcb")
+	)
+	(fp_line
+		(start -11 -8)
+		(end -6 -8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4bfdb809-9dee-431c-9950-94b6f951a9c6")
+	)
+	(fp_line
+		(start -11 -2.25)
+		(end -11 -8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa6e0b05-5cc6-4f68-8393-bebf1030d0f7")
+	)
+	(fp_line
+		(start -11 2.25)
+		(end -11 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4ac69513-1b06-4ed1-b538-8ad50c5459a1")
+	)
+	(fp_line
+		(start -11 8)
+		(end -11 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ba927a6c-d365-4447-81e8-fb7bef3a9f12")
+	)
+	(fp_line
+		(start -11 8)
+		(end 6 8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79cc8c3d-04df-4c71-b4c7-1e5f642f15f2")
+	)
+	(fp_line
+		(start -6 -8)
+		(end 11 -8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b4252a2-4e70-4cd6-8752-635fb566dba2")
+	)
+	(fp_line
+		(start 6 8)
+		(end 11 8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78edfb0a-67ce-4885-af1c-80c65977c495")
+	)
+	(fp_line
+		(start 11 -2.25)
+		(end 11 -8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55514906-bb4c-4c0f-bbd1-a889486c25a8")
+	)
+	(fp_line
+		(start 11 2.25)
+		(end 11 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "238b47e7-e2cd-4a81-bf19-17e901e79b3f")
+	)
+	(fp_line
+		(start 11 8)
+		(end 11 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80f0efd1-032a-40f5-9b3a-00863ced7383")
+	)
+	(fp_line
+		(start 14 -2.25)
+		(end 11 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6039b027-ae43-4752-a675-745270447c58")
+	)
+	(fp_line
+		(start 14 -2.25)
+		(end 14 -1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97bd7ba1-148f-478a-8804-f9a3a7504657")
+	)
+	(fp_line
+		(start 14 -1.75)
+		(end 14 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6661e2c8-14d5-47f1-99b9-2feaecd6c9f2")
+	)
+	(fp_line
+		(start 14 1.75)
+		(end 14 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f21b3e81-0598-46e9-9ae5-521c287ddcd6")
+	)
+	(fp_line
+		(start 14 2.25)
+		(end 11 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cd8bde2f-e79e-4c0d-be30-59bb362646be")
+	)
+	(fp_line
+		(start 14 2.25)
+		(end 14 1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0c9a17a0-bd35-4f93-bdd0-ccc9e3684fce")
+	)
+	(fp_arc
+		(start -10 0)
+		(mid -8.944272 -4.472136)
+		(end -6 -8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1254e22d-e7f6-4277-b730-3dbf26620be1")
+	)
+	(fp_arc
+		(start 10 0)
+		(mid 8.944272 4.472136)
+		(end 6 8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d192b2e0-4754-4cdc-a8eb-73fbf88b33e4")
+	)
+	(fp_arc
+		(start -6 8)
+		(mid -8.944272 4.472136)
+		(end -10 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "0fb908ad-9f0b-4e47-b89e-560b251e6f98")
+	)
+	(fp_arc
+		(start 6 -8)
+		(mid 8.944272 -4.472136)
+		(end 10 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "7c72d0c7-6cd1-464c-bd6d-b4fc8c1e5126")
+	)
+	(fp_poly
+		(pts
+			(xy 5.5 3.5) (xy 5.5 -3.5) (xy -5.5 -3.5) (xy -5.5 3.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Adhes")
+		(uuid "5b416b23-2136-4b49-8e63-5b1993542a08")
+	)
+	(pad "+" smd rect
+		(at 14.65 0 90)
+		(size 3.6 2.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "acca686a-8f7c-42d2-b74d-26e9fe29cee0")
+	)
+	(pad "-" smd rect
+		(at -14.65 0 90)
+		(size 3.6 2.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "d8533222-fecd-433a-867e-085df1d6c83d")
+	)
+	(embedded_fonts no)
+)

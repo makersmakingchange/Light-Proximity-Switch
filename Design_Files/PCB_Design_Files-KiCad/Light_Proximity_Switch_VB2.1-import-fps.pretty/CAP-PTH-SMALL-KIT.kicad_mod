@@ -1,0 +1,123 @@
+(footprint "CAP-PTH-SMALL-KIT"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "CAP-PTH-SMALL-KIT Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.com/products/8375) or 22pF caps (http://www.sparkfun.com/products/8571).\n\nWarning: This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "37fc405f-635d-4044-a252-0738887908d4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" "CAP-PTH-SMALL-KIT"
+		(at -3.7 3 0)
+		(layer "F.Fab")
+		(uuid "35d947fa-42c8-447a-b7ef-96b358a5718a")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb9fefe1-ba7b-4c55-9930-826fc856b21e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b128686-7c3d-49a2-a343-a4b5fecaef88")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.667 -1.27)
+		(end 2.667 -1.27)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55490442-6ee3-4e62-b7e5-c16b3bf4fd41")
+	)
+	(fp_line
+		(start -2.667 1.27)
+		(end -2.667 -1.27)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "431d473f-855a-4cc1-b48e-ec83018c1ef3")
+	)
+	(fp_line
+		(start 0 -0.635)
+		(end 0 0.635)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ab1744c9-39e4-452a-9ea2-1b270b1dcf05")
+	)
+	(fp_line
+		(start 2.667 -1.27)
+		(end 2.667 1.27)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dca3e19a-46c7-4ea6-abe8-abafff8878e7")
+	)
+	(fp_line
+		(start 2.667 1.27)
+		(end -2.667 1.27)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5afc5a7a-c29b-4cbb-8317-85185ce6d29f")
+	)
+	(pad "1" thru_hole circle
+		(at -1.397 0)
+		(size 2.032 2.032)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "06c15cd6-366b-4da5-826f-02d1bcf655ac")
+	)
+	(pad "2" thru_hole circle
+		(at 1.397 0)
+		(size 2.032 2.032)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "6d8913d0-d36d-40c0-b501-24ba0b72fcdc")
+	)
+	(embedded_fonts no)
+)

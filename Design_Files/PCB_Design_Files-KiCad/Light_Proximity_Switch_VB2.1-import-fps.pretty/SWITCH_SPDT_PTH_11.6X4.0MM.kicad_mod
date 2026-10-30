@@ -1,0 +1,125 @@
+(footprint "SWITCH_SPDT_PTH_11.6X4.0MM"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SPDT PTH Slide Switch\n\nSingle-pole, double-throw (SPDT) switch.\n\nhttps://www.sparkfun.com/datasheets/Components/Buttons/P040040c.pdf Dimensional Drawing")
+	(property "Reference" "REF**"
+		(at -2.413 0 90)
+		(layer "F.SilkS")
+		(uuid "b498befb-b5ed-4165-86bd-0543554aaa91")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify bottom)
+		)
+	)
+	(property "Value" "SWITCH_SPDT_PTH_11.6X4.0MM"
+		(at 2.413 0 90)
+		(layer "F.Fab")
+		(uuid "ecc86f6b-9cdf-4512-9c4b-5d771e9aca9f")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify top)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2d641ae-257d-47f7-a24a-d9d10c92e4c6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d300fe8-e31b-4ab2-9ca6-9892266a45d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.175 -5.815)
+		(end -2.175 5.815)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "166f48c6-6c28-43c6-9249-31ee8842809e")
+	)
+	(fp_line
+		(start -2.175 5.815)
+		(end 2.175 5.815)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "19d265e3-939c-4dec-a67f-a0fe4c362bee")
+	)
+	(fp_line
+		(start 2.175 -5.815)
+		(end -2.175 -5.815)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "189a3e76-2db7-479c-857e-9006683de4bf")
+	)
+	(fp_line
+		(start 2.175 5.815)
+		(end 2.175 -5.815)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "038514d8-d06b-492f-b047-6165a5588fe1")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -2.54)
+		(size 1.8796 1.8796)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "0eb3a9a1-ab27-4634-9068-cb536a573e3a")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 1.8796 1.8796)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "8e6e7028-931d-47bd-bfd3-b310f47f61cf")
+	)
+	(pad "3" thru_hole circle
+		(at 0 2.54)
+		(size 1.8796 1.8796)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "932be69c-f5b4-43be-beee-33493f07b187")
+	)
+	(embedded_fonts no)
+)
